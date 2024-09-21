@@ -28,12 +28,6 @@
 
 👉 **Texture Image Upload**: Allow users to upload texture images to style the 3D shirt/swag.
 
-👉 **AI-Generated Logo Integration**: Utilize AI to generate logos and intelligently apply them to the 3D shirt.
-
-👉 **AI-Generated Textures**: Implement AI-generated textures for enhanced 3D shirt customization.
-
-👉 **Download Options**:Dynamically change the application theme based on the selected color, enhancing user experience.
-
 👉 **Theme Change with Color Selection**: Dynamically change the application theme based on the selected color, enhancing user experience
 
 👉 **Responsive 3D Application**: Ensure the application is responsive, delivering a seamless experience across various devices.
