@@ -1,4 +1,4 @@
-<img src="https://github.com/adrianhajdin/project_threejs_ai/assets/151519281/a7ad05c5-28a5-423f-b6ac-c98f8a5c428a" alt="Project Banner">
+
 
 # MetaDesign
 
